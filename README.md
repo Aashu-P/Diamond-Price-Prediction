@@ -1,3 +1,4 @@
+(README is just a overview of project - check website post, technical report, or actual code for a more holistic understanding)
 # Diamond Price Prediction
 
 ## Research Question
